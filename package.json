@@ -8,12 +8,9 @@
   ],
   "dependencies": {
     "basic-ftp": "^3.8.6",
-    "bluebird": "^3.0.5",
     "mime": "^2.0.3",
     "request": "^2.88.0",
     "sftp-promises": "^1.4.1",
-    "unifile-common-tools": "1.0.3",
-    "webfinger.js": "^2.4.2"
   },
   "devDependencies": {
     "chai": "^4.0.2",
